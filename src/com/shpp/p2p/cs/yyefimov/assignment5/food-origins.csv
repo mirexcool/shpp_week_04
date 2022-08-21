@@ -1,0 +1,11 @@
+One,"Two",Two with half,"Two with ""quarter""","Almost three, but not three","Almost, almost ""three""",Three,,5,"","""""""Seven"""""""
+"Two",Two with half,"Two with ""quarter""","Almost three, but not three","Almost, almost ""three""",Three,,5,"","""""Seven""""",One
+Two with half,"Two with ""quarter""","Almost three, but not three","Almost, almost ""three""",Three,,5,"","""""Seven""""",One,"Two"
+"Two with ""quarter""","Almost three, but not three","Almost, almost ""three""",Three,,5,"","""""Seven""""",One,"Two",Two with half
+"Almost three, but not three","Almost, almost ""three""",Three,,5,"","""""Seven""""",One,"Two",Two with half,"Two with ""quarter"""
+"Almost, almost ""three""",Three,,5,"","""""Seven""""",One,"Two",Two with half,"Two with ""quarter""","Almost three, but not three"
+Three,,5,"","""""Seven""""",One,"Two",Two with half,"Two with ""quarter""","Almost three, but not three","Almost, almost ""three"""
+,5,"","""""Seven""""",One,"Two",Two with half,"Two with ""quarter""","Almost three, but not three","Almost, almost ""three""",Three
+5,"","""""Seven""""",One,"Two",Two with half,"Two with ""quarter""","Almost three, but not three","Almost, almost ""three""",Three,
+"","""""Seven""""",One,"Two",Two with half,"Two with ""quarter""","Almost three, but not three","Almost, almost ""three""",Three,,5
+"""""Seven""""",One,"Two",Two with half,"Two with ""quarter""","Almost three, but not three","Almost, almost ""three""",Three,,5,""
